@@ -1,0 +1,6 @@
+{
+  "domain": "NONE",
+  "server": "datastage.example.com",
+  "username": "YOUR_DATASTAGE_USERNAME",
+  "password": "REPLACE_WITH_YOUR_PASSWORD"
+}

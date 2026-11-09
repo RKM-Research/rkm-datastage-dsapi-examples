@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "dsjob-net": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
