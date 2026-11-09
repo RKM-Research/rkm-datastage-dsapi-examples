@@ -48,4 +48,4 @@ Create a private JSON file such as `C:\Secure\dsjob-net.auth.json`, using [authf
 
 This is an illustrative utility designed to exercise DSAPI. Command handlers return status codes and display relevant native error messages where available. Execution requires Windows x86 because of the IBM native runtime.
 
-MIT, see the [repository licence](../../LICENSE). Historical DataStage sample acknowledgement is retained in `EntryPoint.cs`.
+MIT, see the [repository licence](../../../LICENSE). Historical DataStage sample acknowledgement is retained in `EntryPoint.cs`.

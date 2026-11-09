@@ -8,7 +8,7 @@ The examples use **published NuGet packages**, not project references to the lib
 
 | Example | Description | Dependency |
 | --- | --- | --- |
-| [dsjob-net](low-level/dsjob-net/) | Windows x86 command-line tool for DataStage projects, jobs, metadata, parameters and logs | [RKM.DataStage.DSAPI](https://www.nuget.org/packages/RKM.DataStage.DSAPI/) |
+| [dsjob-net](low-level/console/dsjob-net/) | Windows x86 command-line tool for DataStage projects, jobs, metadata, parameters and logs | [RKM.DataStage.DSAPI](https://www.nuget.org/packages/RKM.DataStage.DSAPI/) |
 
 The repository is organised so that future examples using a higher-level RKM DataStage .NET library, as well as advanced integration scenarios, can be added separately when ready.
 
@@ -19,7 +19,7 @@ The repository is organised so that future examples using a higher-level RKM Dat
 3. Restore NuGet packages and build `dsjob-net` for **Windows x86**.
 4. Run it on a Windows system with compatible IBM DataStage 32-bit native DSAPI components installed.
 
-See the [dsjob-net README](low-level/dsjob-net/README.md) for commands and authentication-file instructions.
+See the [dsjob-net README](low-level/console/dsjob-net/README.md) for commands and authentication-file instructions.
 
 ## Requirements
 
